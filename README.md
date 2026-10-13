@@ -1,4 +1,4 @@
-# StrudleHub-Skill
+# StrudelHub-Skill
 
 Agent skill for composing, pushing and iterating live [Strudel](https://strudel.cc) music on [StrudelHub](https://strudelhub.com) sessions, pinned to `@strudel/repl@1.3.0`.
 
